@@ -1,1 +1,1 @@
-[{"verCode":3,"verName":"here-ecommunity","apkPath":"192.168.11.102:8080"}]
+[{"verCode":3,"verName":"here-ecommunity","apkPath":"https://raw.github.com/liujiepowerall/version/master/HereEcommunity-debug.apk"}]
