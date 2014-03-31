@@ -1,1 +1,1 @@
-[{"verCode":3,"verName":"here-ecommunity","apkPath":"https://raw.github.com/liujiepowerall/version/master/HereEcommunity-debug.apk"}]
+[{"verCode":4,"verName":"0.1.3","updateInfo":"\n  1.update map\n  2.update search","apkName":"here-ecommunity","apkPath":"http://192.168.12.162/data/HereEcommunity-debug.apk"}]
